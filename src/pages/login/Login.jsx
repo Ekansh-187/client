@@ -57,13 +57,13 @@ const Login = () => {
               >
                 <stop
                   offset="14.444444444444446%"
-                  stop-color="#001220"
-                  stop-opacity="1"
+                  stopColor="#001220"
+                  stopOpacity="1"
                 ></stop>
                 <stop
                   offset="85.55555555555554%"
-                  stop-color="#001220"
-                  stop-opacity="1"
+                  stopColor="#001220"
+                  stopOpacity="1"
                 ></stop>
               </linearGradient>
             </defs>
